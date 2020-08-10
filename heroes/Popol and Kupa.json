@@ -1,0 +1,37 @@
+{
+    "name": "Popol and Kupa",
+    "type": "Marksman",
+    "story": "The Feldans are an ordinary nomad tribe in the middle of Northern Vale. Like many local people, they reside near the forest and live a peaceful and slow-paced life as hunters.But there was one exception. Popol, a naughty boy who had been known as the expert prankster and little adventurer of the tribe, always seemed to be at the center of attention. Unlike the other quiet and composed Northern Valers, he was full of vigor and imagination. Thanks to the warrior tradition of Northern Vale, Popol mastered the art of spear-throwing since his childhood. He often joined the adults in their hunting and returned with a cart full of prey.Listening to the adults singing songs about legendary heroes after drinking was his favorite pastime. He dreamt of becoming one of them and also have his name sung by others like Popol the Fearless.However, his tribesmen didn't take his ambition seriously and laughed about it as some childish daydream. Popol apparently couldn't stand that. In order to impress the others, he pulled all kinds of well-schemed pranks on them, resulting only in the villagers, especially kids, seeing him as a freak and stayed away from him.The more alienated he was, the more eager he became to draw their attention by pulling even more pranks. However, that kept achieving opposite effects. In the end he had no friends left.Alone and desperate, he decided to do something extraordinary to reverse his image once and for all.On a dark night, Popol left the village and ventured into the mountains. He planned to kill a ferocious frost wolf all by himself to impress the others.He stumbled into the thick forest and investigated his surroundings curiously. He lost orientation in the dark and fell into a trap.The first thing he saw at the bottom of the hole was a pair of green glowing eyes, which scared him off his feet. But when moonlight shone into the trap, he saw the owner of the eyes - a trapped frost wolf whom he later gave the name Kupa. One of its front feet was clamped by a beast trap and due to starvation, it could barely move.Popol could have killed Kupa there and then, but when he raised his spear, he saw the same loneliness in Kupa's eyes. If he killed Kupa, he would be completely alone in the darkness of the trap. Hesitantly, he put down the spear and tried to help Kupa.At first they were defensive and hostile towards other . But in time, the two lonely souls finally lowered their guard and regarded the other as the same kind. The beast trap became the bridge of their friendship. And perhaps due to their loneliness, Popol treated Kupa as a listener and playmate. He even playfully threw a snow ball on its head.But at this point, Kupa was almost starving to death. Popol hesitated for a while before sharing the food he carried with the dying Kupa.However, Popol decided to feed Kupa and Kupa was eventually saved from starvation. In its mind, all humans were cold and ruthless like the hunters. It is always a life-and-death situation between them and the frost wolves. But Popol was different. Having been hunted alone in the forest since it was born, Kupa felt kindness and warmth for the first time from Popol.Days passed, and the two formed a subtle friendship. But the first visitors were not people coming to rescue them, but a group of vultures. They flocked to the trap and began to attack. Popol threw spears at the vultures, but he couldn't fend them off while Kupa could only fight aimlessly with one free paw.Under the continuous harassment of the vultures, they were becoming the birds' meal. It was at this time of danger, Popol made a remarkable decision - he threw down the spear and with all his strength, tore open the beast trap, in order to help Kupa escape. With his back exposed, he was caught by a vulture and lifted off the trap in mid air. Just as Popol's hope was lost, a thundering roar broke out. Kupa leapt out of the pit and bit the vulture, freeing Popol from its grasp.Now, with both fightingd side by side, Popol and Kupa demonstrate incredible synergy and repelled all the vultures for good. Henceforth, they became best partners in adventure.They travelled the frozen land and together, began a new chapter of adventure.",
+    "status": {
+        "durability": "40",
+        "offense": "70",
+        "ability_effect": "30",
+        "difficulty": "80"
+    },
+    "skills": {
+        "passive": {
+            "name": "We Are Angry!",
+            "icon": "./hero/Popol and Kupa/img/skills/passive_we_are_angry!.png",
+            "desc": "Popol and Kupa both become enraged for 12/12/12s:####Popol and Kupa gain 30%/40%/50% ATK Speed and 15%/15%/15% Movement SPD.####Kupa enters Alpha Wolf Form, restoring full HP, increasing its max HP by 1500/2500/3500 and Physical ATK by 50/50/50, and enhancing its other skills.",
+            "tips": "Nothing can separate Popol and Kupa, not even desperate battles. When Kupa escapes from combat, he will constantly regenerate HP under the good care of Popol. And even when Kupa has fallen on the battlefield, Popol's prayers can always bring him back. Kupa inherits the traits of Popol\u2019s equipment items. And every 4 attacks performed by Kupa boosts the damage of Popol\u2019s next basic attack."
+        },
+        "first_skill": {
+            "name": "Bite 'em, Kupa!",
+            "icon": "./hero/Popol and Kupa/img/skills/first_skill_bite_'em,_kupa!.png",
+            "desc": "Popol throws a spear at the target for 40/70/100/130 Physical Damage and orders Kupa to bite them, dealing 240/270/300/330 Physical Damage and following up with attacks for 3/3/3/3s. ####Alpha Wolf Form: Kupa strikes ferociously, stunning the target for 1/1/1/1s with 3/3/3/3 rapid bites.",
+            "tips": "Popol throws a spear at the target for Physical Damage and orders Kupa to bite them, dealing Physical Damage.<br>"
+        },
+        "second_skill": {
+            "name": "Kupa, Help!",
+            "icon": "./hero/Popol and Kupa/img/skills/second_skill_kupa,_help!.png",
+            "desc": "Popol summons Kupa to protect him, gaining a Shield equal to 240/270/300/330 HP, dealing 240/270/300/330 Physical Damage to the nearby enemies and slowing them by 35%/35%/35%/35% for 0.5/0.5/0.5/0.5s. Kupa will assist Popol in attacking nearby enemies for 3/3/3/3s. ####Alpha Wolf Form: Kupa darts back to protect its master and knocks nearby enemies Airborne for 0.6/0.6/0.6/0.6s, dealing 150%/150%/150%/150% increased damage.",
+            "tips": "Popol summons Kupa to protect him, gaining a Shield, dealing Physical Damage to the nearby enemies and slowing them."
+        },
+        "ultimate": {
+            "name": "Popol's Surprise",
+            "icon": "./hero/Popol and Kupa/img/skills/ultimate_popol's_surprise.png",
+            "desc": "Popol sets a trap at the target location, which will detonate after a short delay when an enemy is near, immobilizing them for 1/1/1/1s and creating a frost zone for 4/4/4/4s, reducing their Movement SPD by 35%/35%/35%/35%.####Popol can store up to 3/3/3/3 traps at a time and gains 1 charge per 18/16/14/12s. Up to 3/3/3/3 traps can be set, each lasting 60/60/60/60s.",
+            "tips": "Popol and Kupa become enraged, gaining extra attack speed and movement speed. At the same time, Kupa will enter \u201cAlpha Wolf Form\u201d, restoring all HP and boosting the power of their 1st and 2nd skill."
+        }
+    }
+}

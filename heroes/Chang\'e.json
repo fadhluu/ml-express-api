@@ -1,0 +1,37 @@
+{
+    "name": "Chang\\'e",
+    "type": "Mage",
+    "story": "Chang'e is the youngest disciple of the Great Dragon. She exhibited amazing magical potential from an early age, quickly mastering the Great Dragon's greatest spell \u2014 The Sacred Satellite. From then on, Chang'e earned the eternal love of the Great Dragon. However, Chang'e's energetic and playful personality gave the Great Dragon quite a few headaches so he finally asked Zilong, his adopted son, to look after Chang'e. The Great Dragon was hopeful that Zilong's diligent and determined character could help guide Chang'e. Solemn as Zilong was, he came to love the lively and intelligent Chang'e as his little sister. They often spent countless hours together practicing magic. Zilong even managed to find the Moon Rabbit as a gift for Chang'e. Zilong was hoping that one day Chang'e would discover the strength of the divine rabbit and with its help improve her magic ability. Chang'e read Zilong's mind and took good care of the Moon Rabbit, accompanying it every day. During the second War of the Planes, Zilong assisted the wise rulers of the land, traveling between worlds. After he left, Chang'e returned to her naughty and childish ways, even the Moon Rabbit did something naughty from time to time. At one point, the Great Dragon was not sure if there would ever be another day of peace\u2014That is, until the Moon Rabbit accidentally swallowed one of his sacred pills, thinking it was candy. The Great Dragon immediately cast the Moon Rabbit out of his sanctuary. To everyone's surprise, the Moon Rabbit rebelled again the Great Dragon. At the very moment of the Great Dragon taking its life, Chang'e saved the Rabbit and decided to assist Zilong and make up for her mistake together with the Moon Rabbit. Even then, the Great Dragon felt compelled to give Chang'e his precious Crescent Moon to protect her.",
+    "status": {
+        "durability": "92",
+        "offense": "40",
+        "ability_effect": "42",
+        "difficulty": "70"
+    },
+    "skills": {
+        "passive": {
+            "name": "Trouble Maker",
+            "icon": "./hero/Chang\\'e/img/skills/passive_trouble_maker.png",
+            "desc": "Each time Chang'e deals damage to enemy units, she will leave a mark on them and her next skill damage dealt to those with marks will be increased by 2% (up to 40%).",
+            "tips": "While a skill is a active, Chang\u2019e gains 1 stack of Rabbit Blessing every time she inflicts damage upon an enemy hero. Once Chang\u2019e has accumulated 40 stacks, she can exchange them to permanently boost her magic attack by 30 points. Upon death, Chang\u2019e loses 15 stacks. (Stacks that were already exchanged are not affected.)"
+        },
+        "first_skill": {
+            "name": "Starmoon Shockwave",
+            "icon": "./hero/Chang\\'e/img/skills/first_skill_starmoon_shockwave.png",
+            "desc": "Chang'e sends an energy ball forward, dealing 340/380/420/460/500/540 points of Magic Damage to enemies and slows them by 40%/40%/40%/40%/40%/40%. Lasts 1.5/1.5/1.5/1.5/1.5/1.5s. ########Crescent Moon: Crescent Moon will send 4 energy balls alongside Chang'e, each of which deals 20%/20%/20%/20%/20%/20% of Chang'e's damage dealt and slows enemies. (Slowing Effect can be stacked up to 75%/75%/75%/75%/75%/75%.) ",
+            "tips": "Chang\u2019e summons a circle of shimmering moonlight at a designated location that continuously reduces enemy movement speed. After some time, Chang\u2019e pulls enemy units to the center, dealing magic damage. Enemy units caught in this final attack briefly suffer a severe slow effect."
+        },
+        "second_skill": {
+            "name": "Crescent Moon",
+            "icon": "./hero/Chang\\'e/img/skills/second_skill_crescent_moon.png",
+            "desc": "Chang'e summons a Crescent Moon to bless herself, gaining 400/450/500/550/600/650 points of Shield, while increasing Movement Speed by 15%/15%/15%/15%/15%/15%. ####While the Shield is active, her skills and Basic Attack are enhanced. ####Enhanced Basic Attack: Each time Chang'e performs a Basic Attack, the Crescent Moon will deal ////////// points of Magic Damage to enemy targets as well.",
+            "tips": "Unleashes 5 Moon Blades in succession. Inflicts magic damage to the first enemy unit to be hit by this attack and 60% to surrounding enemies. Causes a temporary slow effect. When 3 Moon Blades hit the same target, they will cause a stun effect, once every 6 seconds."
+        },
+        "ultimate": {
+            "name": "Meteor Shower",
+            "icon": "./hero/Chang\\'e/img/skills/ultimate_meteor_shower.png",
+            "desc": "Chang'e gathers strength and increases her Movement Speed by 20%/20%/20% for 4/4/4s. Meanwhile, she launches 30/30/30 Meteors forward, each of which deals 60/80/100 points of Magic Damage (Deals extra 100%/100%/100% damage to Minions and Creeps). ########Crescent Moon: Crescent Moon will cast Meteors together with Chang'e, each of which deals 33%/33%/33% of Chang'e's damage dealt.",
+            "tips": "Chang'e launches a rabbit missile forward, which deals <Num1> points of magic to the first enemy hero hit and then immediately splits into 6 small missiles that continue chasing the target. Every small missile deals  points of Magic Damage. If the rabbit missiles do not hit an enemy hero, the missiles will travel to their maximum distance and then split into 6 missiles once more, randomly chase the nearest targets. When enemy units are hit multiple times, missile damage is reduced."
+        }
+    }
+}

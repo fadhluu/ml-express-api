@@ -1,0 +1,37 @@
+{
+    "name": "Kadita",
+    "type": "Mage",
+    "story": "The Queen of the Southern Seas, Kadita, was once the princess of a small island nation. Admired by everyone, Kadita was considered by all to be genuine, intelligent, and kind-hearted. However, fate often times finds its way to hit people with strife. Kadita was no different. As the heir apparent to the king, a member within the royal family grew jealous of Kadita and conspired to ruin her \u2014 An unknown mage wielding the power of black magic viciously attacked the princess. Kadita came under a powerful spell that robbed her of all her beauty, giving her a strange skin disease in the process.The kingdoms people tried everything they could think of to help their beloved princess, but no one could break the spell. Overtime, people's love for Kadita faded, causing her to lose power and confidence. Out of tremendous despair, Kadita threw herself into the stormy Southern Seas. However, Kadita was rescued by the ocean demons. Using the trident of the seas, the ocean demons were able to break Kadita's powerful spell, but due to her skin disease her skin was never able to return to its original complexion. On that day, Kadita become the legendary Queen of the Southern Seas. Assuming all new powers, Kadita became adept at controlling the ocean waters and the weather. Sailors from all corners of the world came to fear the Southern Seas as they were bound to suffer the wrath of Kadita \u2014 No one dared to conquer the Southern Seas any longer. Survivors recant their experiences facing Kadita. Some say she had the appearance of a strange mermaid, while others said she was more beautiful than the princess they knew before. As stories of Kadita began to spread, legends say that she possesses seven legendary spears, each with its own unique abilities, used to punish any invaders who intended to violate the Southern Seas. As the story goes, Kadita collected the seven spears while guarding the Southern Seas. No one has the power to use all seven spears at once, except for Kadita.",
+    "status": {
+        "durability": "84",
+        "offense": "40",
+        "ability_effect": "56",
+        "difficulty": "66"
+    },
+    "skills": {
+        "passive": {
+            "name": "Thalassophobia",
+            "icon": "./hero/Kadita/img/skills/passive_thalassophobia.png",
+            "desc": "Every 30s, Kadita receives Blessing from the Might of the Ocean. In 4s after taking Damage, she regenerates 65% of HP lost within the skill's duration.",
+            "tips": "Use her 1st skill when the passive is stacked and poke enemies while taking no damage."
+        },
+        "first_skill": {
+            "name": "Ocean Oddity",
+            "icon": "./hero/Kadita/img/skills/first_skill_ocean_oddity.png",
+            "desc": "Kadita becomes a mermaid and summons an ocean wave. She then rides on the wave, dealing 265/310/355/400/445/490 points of Magic Damage and slow the enemies by 30%/30%/30%/30%/30%/30%. She gains immunity to all crowd control skills and reduces 70%/70%/70%/70%/70%/70% damage taken when she is inside the waves. ####Use Again: She will immediately get off the wave, then the wave would travel itself in the current direction. This skill ignores the obstacles.",
+            "tips": "During this process, use the 2nd skill and Ultimate and surround enemies with her waves."
+        },
+        "second_skill": {
+            "name": "Breath of the Ocean",
+            "icon": "./hero/Kadita/img/skills/second_skill_breath_of_the_ocean.png",
+            "desc": "Kadita summons an ocean wave to mark a designated area. After a period of time, the wave surges out of the ground to deal 350/380/410/440/470/500 points of Magic Damage and knocks an enemy into the air for 1.5/1.5/1.5/1.5/1.5/1.5s. ########Kadita can cast this skill during \"Ocean Oddity\". By doing so, she releases \"Breath of the Ocean\" at the place she stands at and the waves surge out faster.",
+            "tips": "It's a skill that takes time to reach a strong effect and needs proper prediction and teammate's cooperation. If you manage to knock an enemy hero up, use Kadita\u2019s 1st skill or her ultimate to eliminate them."
+        },
+        "ultimate": {
+            "name": "Rough Waves",
+            "icon": "./hero/Kadita/img/skills/ultimate_rough_waves.png",
+            "desc": "With the might of the ocean at her command, Kadita summons a tsunami to crush nearby enemies. Each wave deals 300/330/360 points of Magic Damage and slows them by 25%/25%/25%. The more waves an enemy takes, the more damage they take. The tsunami then returns to her and deals 200/220/240 points of Magic Damage to enemies on the path (The damage decays when hitting the same enemy hero for multiple times).",
+            "tips": "The high AOE burst damage and her invulnerable state make her one of the best in teamfights."
+        }
+    }
+}

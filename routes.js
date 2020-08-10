@@ -9,7 +9,7 @@ routes.get('/heroes', (req, res) => {
 routes.get('/heroes/:hero_name', (req, res) => {
   const hero_name = req.params.hero_name;
 
-  const hero = require(`./hero/${hero_name}.json`);
+  const hero = require(`./heroes/${hero_name}.json`);
   res.status(200).json({ data: hero });
 });
 

@@ -1,0 +1,37 @@
+{
+    "name": "Guinevere",
+    "type": "Fighter",
+    "story": "The Baroque family is one of the few nobles on the Land of Dawn. The most prestigious skill of theirs, fencing, the family's forte, discourages countless opponents from even thinking about attacking. In addition, beauty and wisdom are also the most perfect genetic signs of the Baroque family, just like the eternal beauty and love of Violet.  World-famous as Baroque family's fencing is, young Guinevere doesn't like it at all. Just like other girls, she is naturally fond of gorgeous things. From youth, she was sent to the Magic Academy. Relying on her own sensitive spiritual perception and anti-gravity magic, when Guinevere was 10 years old, she successfully combined mental perception with super energy and invented multiple magic effects - magic superpower. Such a breakthrough made Guinevere more passionate about magic, and she often experimented with her new magic on her brother Lancelot. No matter how Lancelot hid, he would always be found by his sister. Therefore, Lancelot was often caught in out of nowhere. During his childhood, his sister was always causing him headaches, but Lancelot still loves Guinevere. He always shows a smile to his beloved sister. But every time Lancelot thinks of his little sister's magic experiment, he would wear a bitter smile.  Recently, something has been plaguing Guinevere, making her uneasy. It is said that the Paxley nobles who have a very high magical status have proposed marriage to the Baroque family. Guinevere is undoubtedly the most suitable choice and Guinevere's father seems to be very willing to go through with the marriage. But the reluctant Guinevere suddenly thinks of an idea - She hopes to find her brother Lancelot...",
+    "status": {
+        "durability": "50",
+        "offense": "85",
+        "ability_effect": "37",
+        "difficulty": "65"
+    },
+    "skills": {
+        "passive": {
+            "name": "Super Magic",
+            "icon": "./hero/Guinevere/img/skills/passive_super_magic.png",
+            "desc": "Guinevere deals 25% increased damage to airborne enemies.########Guinevere's mastery of magic allows her basic attack to deal  bonus Magic Damage.####Guinevere accumulates Super Magic each time she deals damage. When she is fully charged, her next basic attack will become guided, dealing 80 Magic damage and restoring 8% of her lost HP.",
+            "tips": "Try to deal damage to enemies while they're knocked up."
+        },
+        "first_skill": {
+            "name": "Energy Wave",
+            "icon": "./hero/Guinevere/img/skills/first_skill_energy_wave.png",
+            "desc": "Guinevere releases an energy orb, dealing 300/345/390/435/480/525 Magic Damage to enemies in a line and slowing them by 50%/50%/50%/50%/50%/50% for 1.2/1.2/1.2/1.2/1.2/1.2s.####Hitting any target reduces all of her skill CDs by 1/1/1/1/1/1s.",
+            "tips": "It's the main damage skill of Guinevere. The strong slowing effects can increase the hit rate of other skills. Meanwhile, this skill provides CD Reduction to other skills. It's also a poke skill when Guinevere is laning."
+        },
+        "second_skill": {
+            "name": "Spatial Migration",
+            "icon": "./hero/Guinevere/img/skills/second_skill_spatial_migration.png",
+            "desc": "Guinevere thumps at the target location for 250/280/310/340/370/400 Magic Damage. Enemy Heroes and Creeps hit will be knocked airborne for 1/1/1/1/1/1s and take 125/140/155/170/185/200 additional Magic Damage.####After cast, Guinevere can reactivate the skill in 5/5/5/5/5/5s to blink toward the target direction and leave an illusion behind. If the illusion takes damage, it restores Super Magic for Guinevere and will explode in 1.5/1.5/1.5/1.5/1.5/1.5s, dealing 100/100/100/100/100/100 Magic Damage to nearby enemies.",
+            "tips": "As the core skill of Guinevere, How many enemies are knocked into the air determines the success or failure of the teamfights."
+        },
+        "ultimate": {
+            "name": "Violet Requiem",
+            "icon": "./hero/Guinevere/img/skills/ultimate_violet_requiem.png",
+            "desc": "Guinevere creates a force field around her, attacking nearby enemies 10/10/10 times within 2/2/2s, dealing 650/780/910 Magic Damage in total.####If the enemy hit is already airborne, they will be knocked airborne again, up to 6/6/6 additional times. ####Guinevere is immune to CC while casting this skill.",
+            "tips": "Other than the knock-up effect of Magic Thump, you can also use this skill to cooperate with teammates' knock-up skills."
+        }
+    }
+}

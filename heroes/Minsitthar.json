@@ -1,0 +1,37 @@
+{
+    "name": "Minsitthar",
+    "type": "Fighter",
+    "story": "In the mysterious village of the East there was once a hero, \"Holy Spear\" Minsitthar, who had saved his kingdom from danger. He was once the Prince of Mahar Pura and served in the Forces from his youth. After adulthood he was respectfully called one of the \"Four Great Generals\" of Mahar Pura with his remarkable achievements.  Minsitthar was invincible in wars, which earned the trust of the King and his people. They deeply believed that Minsitthar would be the King after his Father. Perseverant and courageous as he might be, yet he couldn't avoid falling for an unacceptable love, and it enraged his Father and dried out all the trust and expectation towards his son. Minsitthar knew that he had made an unrecoverable mistake and fled out of the Palace in the dark night with his servants.  It was the first time that he left his homeland. But his exile had just begun. Years flew by when Minsitthar heard that his Father had passed away and his kingdom was in great danger. When he was hesitating whether he should stand out and save the kingdom, the messenger of his brother found him. He tried to persuade Minsitthar to come back and help them. Minsitthar and his brother had some disagreement in battlefield strategies, and his paranoid brother failed in his own plan and got killed by the rebelling army. Minsitthar united the soldiers and slayed all the enemies with the Holy Spear his Father passed down to him. Mahar Pura was in peace again.  Shortly after, Minsitthar stepped onto the throne and became the new king of Mahar Pura. During the exile he had witnessed many methods of ruling and he brought revolution and innovation to his kingdom. Soon later Mahar Pura became a prosperous kingdom again.",
+    "status": {
+        "durability": "50",
+        "offense": "75",
+        "ability_effect": "65",
+        "difficulty": "40"
+    },
+    "skills": {
+        "passive": {
+            "name": "All United",
+            "icon": "./hero/Minsitthar/img/skills/passive_all_united.png",
+            "desc": "Minsitthar inspires the whole team. When teammates slay enemy heroes, he obtains extra 60 Gold wherever he is; whenever Minsitthar himself slay enemies, all his teammates obtain extra 15 Gold.",
+            "tips": "With this passive, Minsithar can perform more ganks with his teammates without the worry of  his farming falling behind."
+        },
+        "first_skill": {
+            "name": "Spear of Glory",
+            "icon": "./hero/Minsitthar/img/skills/first_skill_spear_of_glory.png",
+            "desc": "Minsitthar stabs ahead with the Spear of Glory, dealing 175/200/225/250/275/300 points of Physical Damage to all enemies along the way. ####When pulling back the spear, he will also pull towards himself the first enemy the spear hits, dealing 150/175/200/225/250/275 points of Physical Damage and knocks the target back.",
+            "tips": "Try to better use this skill and pull back the back-line heroes who are easy to slay even when they're hiding behind the tanks. "
+        },
+        "second_skill": {
+            "name": "Shield Assault",
+            "icon": "./hero/Minsitthar/img/skills/second_skill_shield_assault.png",
+            "desc": "Minsitthar awakens the strength of the Shield and releases the power within forward. The power explodes upon hitting the first enemy unit and deals 230/275/320/365/410/455 points of Physical Damage to all enemies in the area. Meanwhile, he obtains 200/280/360/440/520/600 Shield and increases 20%/20%/20%/20%/20%/20% Movement Speed immediately. ####The first enemy will be stunned 1/1/1/1/1/1s and the other enemies will be knocked back.",
+            "tips": "The range of this skill is not too wide so better use it together with his 1st Skill, and by doing so the hit rate will be increased."
+        },
+        "ultimate": {
+            "name": "King's Calling",
+            "icon": "./hero/Minsitthar/img/skills/ultimate_king's_calling.png",
+            "desc": "Minsitthar charges a short distance forward and calls 4 Royal Guards to form a field and fight together with him. Each attack of Royal Guards deals // points of Physical Damage. The Royal Guards cannot move, but they'll attack enemies in the field first. ####When staying in the area, Minsitthar increases 30/50/70 points of Physical and Magic Defense. Enemies in the field are slowed by 20%/20%/20% and cannot use directional Blink skills. ",
+            "tips": "Use the Ult directly when a teamfight with fewer than 3 players occurs. When facing more enemies, use \"Spear of Glory\" first and fast slay an ememy hero to increase the chances of winning the teamfight. "
+        }
+    }
+}
