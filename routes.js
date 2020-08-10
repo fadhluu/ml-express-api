@@ -6,6 +6,16 @@ const capitalize = s => {
   return s[0].toUpperCase() + s.slice(1);
 };
 
+routes.get('/', (req, res) => {
+  res
+    .status(200)
+    .json({
+      listHeroes: '/heroes',
+      heroesDetail: '/heroes/{hero name}',
+      numberOfHeroes: heroes.length,
+    });
+});
+
 routes.get('/heroes', (req, res) => {
   res.status(200).json({ message: 'List Heroes', data: heroes });
 });
